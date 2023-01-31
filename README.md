@@ -11,8 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=Albert-webJs&color=orange" alt="profile counter"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=4000&pause=2000&color=0464F7&background=FFFFFF00&width=435&lines=WELCOM+TO+MY+PROFILE+!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 ### 👨‍💻: About Me :
 - :telescope: I am a frontend developer, I like to create 
@@ -24,7 +23,7 @@ Web applications, participate in development and see the result of my work..
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div aling="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
