@@ -9,10 +9,11 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Albert-webJs&color=orange" alt="profile counter"/>
-<h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A00F7&width=435&lines=WELCOM+TO+MY+PROFILE)](https://git.io/typing-svg)
-</h2>
 </div>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A00F7&width=435&lines=WELCOM+TO+MY+PROFILE)](https://git.io/typing-svg)
+
 
 ### 👨‍💻: About Me :
 - :telescope: I am a frontend developer, I like to create 
