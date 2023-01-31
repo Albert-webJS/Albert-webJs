@@ -14,7 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&color=0A7FF7&center=true&vCenter=true&width=435&lines=Welcome+you+to+my+profile+!)](https://git.io/typing-svg)
 
 ### 👨‍💻: About Me :
----
+***
 - :telescope: I am a frontend developer, I like to create 
 Web applications, participate in development and see the result of my work..
 
