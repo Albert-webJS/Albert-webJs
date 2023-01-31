@@ -11,8 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=Albert-webJs&color=orange" alt="profile counter"/>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1A00F7&width=435&lines=WELCOM+TO+MY+PROFILE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=25&duration=4000&pause=2000&color=0464F7&background=FFFFFF00&width=435&lines=WELCOM+TO+MY+PROFILE+!)](https://git.io/typing-svg)
 
 
 ### 👨‍💻: About Me :
