@@ -10,7 +10,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Albert-webJs&color=orange" alt="profile counter"/>
 <h2>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=WELCOM+YOU+TO+MY+PROFILE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 </h2>
 </div>
 
