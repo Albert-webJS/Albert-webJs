@@ -40,3 +40,4 @@ Web applications, participate in development and see the result of my work..
 ---
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert-webJs&theme=dark&background=000000)](https://git.io/streak-stats)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?Albert-webJs=vn7n24fzkq&theme=github_dark)
