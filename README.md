@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/FIxFSTKE5cffO/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/albertpivnenko">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,20 +11,17 @@
 <img src="https://komarev.com/ghpvc/?username=Albert-webJs&color=orange" alt="profile counter"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&color=0A7FF7&center=true&vCenter=true&width=435&lines=Welcome+you+to+my+profile+!)](https://git.io/typing-svg)
 
----
-### 👨‍💻: About Me :
-- :telescope: I am a frontend developer, I like to create 
-Web applications, participate in development and see the result of my work..
+<h2 align="center">About Me</h2>
+<div>
+I am engaged in development of landing pages and SPA. I like to develop in this direction, learn new material, improve my knowledge and skills in practice. Creating an application that eventually works gives me confidence that I am going in the right direction. I have noticed this peculiarity, the more I study the material, the less I know, how do you deal with it?  
+</div>
 
-- :zap: In my free time, I read articles and develop my programming skills.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlikPivnenko)
-
----
-### :hammer_and_wrench: Languages and Tools :
-<div aling="center" >
+<h2 align="center">
+Languages and Tools
+</h2>
+<div align="center" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -37,6 +34,9 @@ Web applications, participate in development and see the result of my work..
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert-webJs&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<h2 align="center">My Stats</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert-webJs&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert-webJs&show_icons=true&theme=radical)](https://github.com/Albert-webJs/github-readme-stats)
+
